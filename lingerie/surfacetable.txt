@@ -1,4 +1,4 @@
-
+charset,UTF-8
 group,[橘花]
 {
 	scope,0
